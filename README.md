@@ -50,7 +50,7 @@ node server.js
 
 ## Project Link
 
-[Portfolio Repository](https://github.com/nparker80/top-employe-tracker)
+[Portfolio Repository](https://github.com/nparker80/top-employee-tracker)
 
 ## License 
 This project is licensed under MIT
