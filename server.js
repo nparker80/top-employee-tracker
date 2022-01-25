@@ -28,4 +28,49 @@ function runEmployees() {
                 'View employee by manager',
                 'Exit'
             ]
+          }).then(answer => {
+
+            switch (answer.option) {
+                case "View all departments":
+                    viewAllDepartments();
+                    break;
+
+                case "View all roles":
+                    viewAllRoles();
+                    break;
+
+                case "View all employees":
+                    viewAllEmployees();
+                    break;
+
+                case "Add department":
+                    addDepartment();
+                    break;
+
+                case "Add roles":
+                    addRoles();
+                    break;
+
+                case "Add employees":
+                    addEmployee();
+                    break;
+
+                case "Update employee roles":
+                    updateEmployeeRole();
+                    break;
+
+                case "Update employee manager":
+                    updateManager()
+                    break;
+                case "View employee by manager":
+                    viewEmployeeByManager()
+                    break;
+                case "Exit":
+                    connection.end();
+                    console.log('Have a good day');
+                    break;
+            }
+        })
+}
+
 
