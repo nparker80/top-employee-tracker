@@ -20,6 +20,20 @@
 
 ## Description: 
 This is a command line application to view and interact with information stored in databases. This application is a solution for managing a company's employees using node, inquirer, and MySQL2. Employee Tracker allows managers or someone within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from your CLI.
+
+![employeeTracker-start](Assets/Images/employeeTracker-start.png)
+<br>
+<br>
+![employeeTracker-option](Assets/Images/employeeTracker-options.png)
+<br>
+<br>
+![employeeTracker-viewAllRoles](Assets/Images/employeeTracker-viewAllRoles.png)
+<br>
+<br>
+![employeeTracker-update](Assets/Images/employeeTracker-update.png)
+<br>
+<br>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Before attempting to use this project, install the following on your computer:
