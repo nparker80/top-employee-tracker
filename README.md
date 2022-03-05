@@ -5,8 +5,11 @@
 <div>
    <p>
     View application functionality.<a href="https://drive.google.com/file/d/1PO7IP4yyhgUADwFYL9OrVbwM0ZUj7TeF/view"> Walkthrough Video</a><br>
-      
   </p>
+   
+   [GitHub Pages](https://nparker80.github.io/top-employee-tracker/)
+   
+   [GitHub Repository](https://nparker80.github/top-employee-tracker/)
 </div>
 
 ## Table of Contents
