@@ -9,7 +9,7 @@
    
    [GitHub Pages](https://nparker80.github.io/top-employee-tracker/)
    
-   [GitHub Repository](https://nparker80.github/top-employee-tracker/)
+   [GitHub Repository](https://github.com/nparker80/top-employee-tracker)
 </div>
 
 ## Table of Contents
