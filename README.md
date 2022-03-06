@@ -65,10 +65,6 @@ node server.js
 - [Javascript](https://www.javascript.com)
 - [mysql2](https://www.npmjs.com/package/mysql2)
 
-## Project Link
-
-[Portfolio Repository](https://github.com/nparker80/top-employee-tracker)
-
 ## License 
 This project is licensed under MIT
 
